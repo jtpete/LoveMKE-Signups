@@ -1,0 +1,45 @@
+
+.myborder{
+  border: 2px solid black;
+}
+
+@media (min-width: 992px) {
+  .fix3{position: absolute; right: 0em;}
+
+}
+
+p{
+  color: white;
+  font-family: arial;
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.bkgreen{
+  background-color: green;
+}
+
+.bkred{
+  background-color: red;
+}
+
+.bkyellow{
+  background-color: yellow;
+}
+
+.bkblue{
+  background-color: blue;
+}
+
+.bkorange{
+  background-color: orange;
+}
+
+.bkpurple{
+  background-color: purple;
+}
+
+.bkgray{
+  background-color: gray;
+}
